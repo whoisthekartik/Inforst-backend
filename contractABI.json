@@ -1,0 +1,15 @@
+// contractABI.json
+  [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [ ... ],
+      "name": "Transfer",
+      "type": "event"
+    },
+    ...
+  ]

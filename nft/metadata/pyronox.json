@@ -1,0 +1,19 @@
+{
+  "name": "Pyronox #1",
+  "description": "The blazing legendary Pokémon of the Infernos faction in Inforst.",
+  "image": "ipfs://QmABC123...",  // Will replace later
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Infernos"
+    },
+    {
+      "trait_type": "Legendary",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Power",
+      "value": 98
+    }
+  ]
+}

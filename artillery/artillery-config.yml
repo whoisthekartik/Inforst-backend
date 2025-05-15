@@ -1,0 +1,10 @@
+config:
+  target: 'http://localhost:3000' # Your deployed server's URL
+  phases:
+    - duration: 60
+      arrivalRate: 5
+
+scenarios:
+  - flow:
+      - get:
+          url: '/api/v1/healthcheck'
